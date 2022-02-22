@@ -10,5 +10,5 @@
   
    [![Linkedin](https://img.shields.io/badge/-Huseyin%20Senel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h%C3%BCseyin-%C5%9Fenel/)](https://www.linkedin.com/in/h%C3%BCseyin-%C5%9Fenel/)
    
-   
-   [![Github profile views](https://gpvc.arturio.dev/Huseyin-Senel)]
+  
+   ![Github profile views](https://gpvc.arturio.dev/Huseyin-Senel)
