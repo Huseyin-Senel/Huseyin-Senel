@@ -41,6 +41,7 @@
 - <img align="left" alt="Fusion 360" width="22px" src="https://img.icons8.com/color/344/autodesk-fusion-360.png" /> **Fusion 360**  
 - <img align="left" alt="Sublime Text" width="22px" src="https://img.icons8.com/fluency/344/sublime-text.png" /> **Sublime Text**   
 - <img align="left" alt="Arduino" width="22px" src="https://img.icons8.com/fluency/344/arduino.png" /> **Arduino** 
+- <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 
    <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hüseyin+Şenel+%F0%9F%91%8B;Computer+Engineer;from+Turkey" alt="Headline" />
