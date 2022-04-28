@@ -37,7 +37,7 @@
 - <img align="left" alt="Android Studio" width="22px" src="https://img.icons8.com/fluency/344/android-studio--v3.png" />  **Android Studio**
 - <img align="left" alt="Anaconda" width="22px" src="https://img.icons8.com/fluency/344/anaconda--v2.png" />  **Anaconda**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
-- <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**  
+- <img align="left" alt="Google Colab" width="22px" src="https://colab.research.google.com/img/colab_favicon_256px.png" /> **Google Colab**  
 - <img align="left" alt="Unity" width="22px" src="https://img.icons8.com/ios-filled/344/unity.png" /> **Unity**  
 - <img align="left" alt="Fusion 360" width="22px" src="https://img.icons8.com/color/344/autodesk-fusion-360.png" /> **Fusion 360**  
 - <img align="left" alt="Sublime Text" width="22px" src="https://img.icons8.com/fluency/344/sublime-text.png" /> **Sublime Text**   
