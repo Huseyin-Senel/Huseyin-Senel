@@ -25,10 +25,10 @@
 
 <br/>
    
+- <img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />  **MS SQL**
 - <img align="left" alt="GitHub Copilot" width="22px" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png"/>  **GitHub Copilot**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 - <img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" />  **MySQL**
-- <img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />  **SQL**
 - <img align="left" alt="SQLite" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" />  **SQLite**   
    
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
