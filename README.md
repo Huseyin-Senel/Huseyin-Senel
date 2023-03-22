@@ -13,6 +13,9 @@
       <a href="https://github.com/Huseyin-Senel/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&hide_border=true&show_icons=true" alt="Huseyin GitHub Stats" /> </a>
       </td>
       <td>
+         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
+      <td>
          <a href="https://github.com/Huseyin-Senel/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
      </td>
   </tr>
