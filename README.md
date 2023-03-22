@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
-![Huseyin-Senel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=radical)
+
+
 
 <h1 align="center">Hi 👋, I'm Hüseyin Şenel</h1>
 <h3 align="center">Computer engineering student from Turkey</h3>
@@ -13,10 +13,10 @@
 <table>
    <tr>
       <td>
-      <a href="https://github.com/Huseyin-Senel/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&hide_border=true&show_icons=true" alt="Huseyin GitHub Stats" /> </a>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
       </td>
       <td>
-         <a href="https://github.com/Huseyin-Senel/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+         ![Huseyin-Senel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=radical)
      </td>
   </tr>
    <tr>
