@@ -10,10 +10,11 @@
    <a href="mailto:huseyin0senel@gmail.com"> <img src="https://img.shields.io/badge/Gmail-huseyin0senel@gmail.com-red?style=flat-square&logo=gmail" /> </a>
 <br/>
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
 <table>
    <tr>
       <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
+      
       </td>
       <td>
          ![Huseyin-Senel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=radical)
