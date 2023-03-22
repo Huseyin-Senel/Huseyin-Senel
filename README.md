@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&exclude_repo=github-readme-stats,Huseyin-Senel.github.io)](https://github.com/Huseyin-Senel/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Hüseyin Şenel</h1>
 <h3 align="center">Computer engineering student from Turkey</h3>
