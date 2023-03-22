@@ -3,14 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm Hüseyin Şenel</h1>
 <h3 align="center">Computer engineering student from Turkey</h3>
-   
-   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
    <h4> How to reach me </h4>
    <a href="https://www.linkedin.com/in/h%C3%BCseyin-%C5%9Fenel/"> <img src="https://img.shields.io/badge/LinkedIn-Huseyin%20Senel-blue?style=flat-square&logo=linkedin" /> </a>
    <a href="mailto:huseyin0senel@gmail.com"> <img src="https://img.shields.io/badge/Gmail-huseyin0senel@gmail.com-red?style=flat-square&logo=gmail" /> </a>
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel)](https://github.com/Huseyin-Senel/github-readme-stats)
+
 <table>
    <tr>
       <td>
