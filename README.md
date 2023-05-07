@@ -59,6 +59,7 @@
   
 
 
+```mermaid
 graph TD
     A[Hydra Overrides + Config Dataclass] --> B{Config}
     B --> |Init| C[Model]
@@ -71,3 +72,4 @@ graph TD
     I --> J[Write output manifest]
     K[Ground Truth Manifest]
     J & K --> |Optional| L[Evaluate CER/WER]
+```
