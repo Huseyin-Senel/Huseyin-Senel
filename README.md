@@ -57,3 +57,17 @@
    <!--![Github profile views](https://gpvc.arturio.dev/Huseyin-Senel)-->
    ![Github profile views](https://komarev.com/ghpvc/?username=Huseyin-Senel&color=brightgreen&style=flat-square)
   
+
+
+graph TD
+    A[Hydra Overrides + Config Dataclass] --> B{Config}
+    B --> |Init| C[Model]
+    B --> |Init| D[Trainer]
+    C & D --> E[Set trainer]
+    E --> |Optional| F[Change Transducer Decoding Strategy]
+    F --> H[Load Manifest]
+    E --> |Skip| H
+    H --> I["model.transcribe(...)"]
+    I --> J[Write output manifest]
+    K[Ground Truth Manifest]
+    J & K --> |Optional| L[Evaluate CER/WER]
