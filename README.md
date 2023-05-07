@@ -58,7 +58,7 @@
    ![Github profile views](https://komarev.com/ghpvc/?username=Huseyin-Senel&color=brightgreen&style=flat-square)
   
 
-[comment]: <> (
+<!--
 ```mermaid
 graph TD
     A[Hydra Overrides + Config Dataclass] --> B{Config}
@@ -73,4 +73,4 @@ graph TD
     K[Ground Truth Manifest]
     J & K --> |Optional| L[Evaluate CER/WER]
 ```
-)
+-->
