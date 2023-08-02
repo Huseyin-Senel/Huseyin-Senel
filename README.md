@@ -22,23 +22,49 @@
       <td>
          <picture>
             <source
-                    srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=radical&hide_border=true&border_radius=20"
+                    srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=radical&hide_border=true&border_radius=20&show=reviews"
                     media="(prefers-color-scheme: dark)"
                     />
-            <img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true" />
+            <img height=220 src="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true" />
          </picture>
       </td>
       <td>
          <a href="https://github.com/Huseyin-Senel">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&layout=compact&theme=radical&hide_border=true&border_radius=20" />
+            <img  height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&layout=compact&theme=radical&hide_border=true&border_radius=20" />
          </a>
      </td>    
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=Huseyin-Senel&theme=radical&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j" alt="Huseyin's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats">
+         <img height=220 src="https://streak-stats.demolab.com?user=Huseyin-Senel&theme=radical&hide_border=true&border_radius=20&date_format=%5BY%20%5DM%20j" alt="Huseyin's GitHub Readme Streak Stats" /> 
+      </a>
     </td>       
   </tr>
+   <tr>
+      <td>
+         <a href="https://github.com/Huseyin-Senel/Swing-the-Ball-Game">
+            <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=Swing-the-Ball-Game&theme=radical&hide_border=true&border_radius=20" />
+         </a>
+      </td>
+      <td>
+         <a href="https://github.com/Huseyin-Senel/stokTakip">
+            <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=stokTakip&theme=radical&hide_border=true&border_radius=20" />
+         </a>
+      </td>
+   </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/Huseyin-Senel/SENATUS">
+            <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=SENATUS&theme=radical&hide_border=true&border_radius=20" />
+         </a>
+      </td>
+      <td>
+         <a href="https://github.com/Huseyin-Senel/machineVision">
+            <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=machineVision&theme=radical&hide_border=true&border_radius=20" />
+         </a>
+      </td>
+   </tr>
 </table>
 
 <br/>
