@@ -25,7 +25,7 @@
                     srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=radical&hide_border=true&border_radius=20&show=reviews"
                     media="(prefers-color-scheme: dark)"
                     />
-            <img height=220 src="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=buefy&hide_border=true&border_radius=20&show=reviews" alt="GitHub Stats" />
+            <img height=220 src="https://github-readme-stats.vercel.app/api?username=Huseyin-Senel&show_icons=true&theme=buefy&hide_border=true&border_radius=20&show=reviews&bg_color=f6f8fa" alt="GitHub Stats" />
          </picture>
       </td>
       <td>
@@ -34,7 +34,7 @@
                     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&layout=compact&theme=radical&hide_border=true&border_radius=20"
                     media="(prefers-color-scheme: dark)"
                     />
-            <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&layout=compact&theme=buefy&hide_border=true&border_radius=20" alt="Most Used Languages" />
+            <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Senel&layout=compact&theme=buefy&hide_border=true&border_radius=20&bg_color=f6f8fa" alt="Most Used Languages" />
          </picture>
      </td>    
   </tr>
@@ -57,7 +57,7 @@
                        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=Swing-the-Ball-Game&theme=radical&hide_border=true&border_radius=20"
                        media="(prefers-color-scheme: dark)"
                        />
-               <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=Swing-the-Ball-Game&theme=buefy&hide_border=true&border_radius=20" alt="Swing-the-Ball-Game" />
+               <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=Swing-the-Ball-Game&theme=buefy&hide_border=true&border_radius=20&bg_color=f6f8fa" alt="Swing-the-Ball-Game" />
             </picture>
          </a>
       </td>
@@ -68,29 +68,33 @@
                     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=stokTakip&theme=radical&hide_border=true&border_radius=20"
                     media="(prefers-color-scheme: dark)"
                     />
-            <img height=150 width=470 align="center" height=220 src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=stokTakip&theme=buefy&hide_border=true&border_radius=20" alt="stokTakip" />
+            <img height=150 width=470 align="center" height=220 src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=stokTakip&theme=buefy&hide_border=true&border_radius=20&bg_color=f6f8fa" alt="stokTakip" />
          </picture>
          </a>
       </td>
    </tr>
     <tr>
       <td>
-          <picture>
-            <source
-                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=SENATUS&theme=radical&hide_border=true&border_radius=20"
-                    media="(prefers-color-scheme: dark)"
-                    />
-            <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=SENATUS&theme=buefy&hide_border=true&border_radius=20" alt="SENATUS" />
-         </picture>
+         <a href="https://github.com/Huseyin-Senel/SENATUS">
+            <picture>
+               <source
+                     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=SENATUS&theme=radical&hide_border=true&border_radius=20"
+                     media="(prefers-color-scheme: dark)"
+                     />
+               <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=SENATUS&theme=buefy&hide_border=true&border_radius=20" alt="SENATUS" />
+            </picture>
+         </a>
       </td>
       <td>
-          <picture>
-            <source
-                    srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=machineVision&theme=radical&hide_border=true&border_radius=20"
-                    media="(prefers-color-scheme: dark)"
-                    />
-            <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=machineVision&theme=buefy&hide_border=true&border_radius=20" alt="machineVision" />
-         </picture>
+         <a href="https://github.com/Huseyin-Senel/machineVision">
+            <picture>
+               <source
+                     srcset="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=machineVision&theme=radical&hide_border=true&border_radius=20"
+                     media="(prefers-color-scheme: dark)"
+                     />
+               <img height=150 width=470 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Huseyin-Senel&repo=machineVision&theme=buefy&hide_border=true&border_radius=20" alt="machineVision" />
+            </picture>
+         </a>
       </td>
    </tr>
 </table>
@@ -98,9 +102,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,mysql,sqlite,matlab,vue,py,dotnet,androidstudio,cs,arduino,mongodb,nginx,unity,vscode,css,html,js,java,linux,nodejs,stackoverflow,dart,github,flutter,bootstrap&perline=13" alt="skills" />
-  </a>
 </p>
 
    <div align=center>
@@ -109,7 +111,7 @@
                     srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&center=true&weight=500&pause=1000&color=FE428E&width=600&lines=Hi+there+I'm+Hüseyin+Şenel+%F0%9F%91%8B;Computer+Engineer+%F0%9F%96%A5;from+Turkey+%F0%9F%87%B9%F0%9F%87%B7"
                     media="(prefers-color-scheme: dark)"
                     />
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&center=true&weight=500&pause=1000&color=8D71DB&width=600&lines=Hi+there+I'm+Hüseyin+Şenel+%F0%9F%91%8B;Computer+Engineer+%F0%9F%96%A5;from+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="briefly about me" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&center=true&weight=500&pause=1000&color=8D71DB&width=600&lines=Hi+there+I'm+Hüseyin+Şenel+%F0%9F%91%8B;Computer+Engineer+%F0%9F%96%A5;from+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="briefly-about-me" />
          </picture>
     </div>
    
