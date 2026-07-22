@@ -103,7 +103,7 @@
 
 <p align="center">
    <picture>
-  <img alt="skills" src="https://skillicons.dev/icons?i=visualstudio,mysql,sqlite,matlab,vue,vite,pinia,vuetify,py,dotnet,androidstudio,cs,arduino,mongodb,docker,elasticsearch,nginx,bitbucket,unity,vscode,css,html,js,ts,java,linux,nodejs,npm,stackoverflow,dart,git,github,flutter,bootstrap,react,redux,materialui,tailwind,redis&perline=13" />
+  <img alt="skills" src="https://skillicons.dev/icons?i=visualstudio,mysql,sqlite,matlab,vue,vite,pinia,vuetify,py,dotnet,androidstudio,cs,arduino,mongodb,docker,elasticsearch,nginx,bitbucket,unity,vscode,css,html,js,ts,java,linux,nodejs,npm,stackoverflow,dart,git,github,flutter,bootstrap,react,redux,materialui,tailwind,redis,cloudflare,nextjs&perline=13" />
 </picture>
     
 </p>
